@@ -22,7 +22,7 @@ require (
 	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/pflag v1.0.5
 	go.uber.org/zap v1.19.0
-	golang.org/x/sys v0.0.0-20210921065528-437939a70204 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.1.6 // indirect
 	k8s.io/api v0.22.2
 	k8s.io/apiextensions-apiserver v0.22.2
